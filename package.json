@@ -1,7 +1,11 @@
 {
   "name": "juancarlosjr97-test-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Package for Testing NPM",
   "author": "Barney Rubble <juancarlosjr97@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juancarlosjr97/juancarlosjr97-test-package.git"
+  }
 }
